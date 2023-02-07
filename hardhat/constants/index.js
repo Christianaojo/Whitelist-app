@@ -1,5 +1,4 @@
-export const WHITELIST_CONTRACT_ADDRESS = 
-"0xEc2dAb3a0711DDF296b816c94F438329d3d04Daf";
+export const WHITELIST_CONTRACT_ADDRESS = "0x7E1Af33a74421408C566177e4A732C4033B9F7E3";
 export const abi = [
     {
       "inputs": [
@@ -64,4 +63,4 @@ export const abi = [
       "stateMutability": "view",
       "type": "function"
     }
-  ]
+  ];
